@@ -1,7 +1,7 @@
 # Projeto DHT11 com ESP8266 e Firebase
 
 
-Este projeto utiliza um **ESP8266** com o sensor **DHT11** para medir **temperatura** e **umidade**, sincroniza o horário com um servidor **NTP**, e envia os dados para o **Firebase Firestore** a cada hora. Teste de git.
+Este projeto utiliza um **ESP8266** com o sensor **DHT11** para medir **temperatura** e **umidade**, sincroniza o horário com um servidor **NTP**, e envia os dados para o **Firebase Firestore** a cada hora.
 
 
 <br>
